@@ -1,0 +1,3 @@
+that project isn't ready right now but you could use it tho....
+you have to change "folderPath" to you songs folder
+you have to change the number in (String songName = path.substring(25);) to be able to get the song name only
